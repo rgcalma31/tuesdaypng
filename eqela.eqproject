@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tuesdayPNG
+#
+
+projectname: tuesdayPNG
+vendorid: com.mycompany
+mainmodule: com.mycompany.tuesdaypng
